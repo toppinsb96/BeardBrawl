@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 233af9865eff19244845870f3ceef654
+timeCreated: 1517538022
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Head_CNTRL
+    100002: Head_JNT
+    100004: HeadTip_JNT
+    100006: L_Arm1_CNTRL
+    100008: L_Arm1_JNT
+    100010: L_Arm2_CNTRL
+    100012: L_Arm2_JNT
+    100014: L_Foot_CNTRL
+    100016: L_Foot_IK
+    100018: L_Foot_JNT
+    100020: L_FootTip_JNT
+    100022: L_Hand_CNTRL
+    100024: L_Hand_JNT
+    100026: L_HandTip_JNT
+    100028: L_Leg1_CNTRL
+    100030: L_Leg1_JNT
+    100032: L_Leg2_CNTRL
+    100034: L_Leg2_JNT
+    100036: L_Toe_IK
+    100038: L_Toe_IK_GRP
+    100040: LowBody_CNTRL
+    100042: LowBody_JNT
+    100044: Neck_CNTRL
+    100046: Neck_JNT
+    100048: Player_CNTRLS
+    100050: //RootNode
+    100052: PlayerPlaceholder_GEO
+    100054: R_Arm1_CNTRL
+    100056: R_Arm1_JNT
+    100058: R_Arm2_CNTRL
+    100060: R_Arm2_JNT
+    100062: R_Foot_CNTRL
+    100064: R_Foot_IK
+    100066: R_Foot_JNT
+    100068: R_FootTip_JNT
+    100070: R_Hand_CNTRL
+    100072: R_Hand_JNT
+    100074: R_HandTip_JNT
+    100076: R_Leg1_CNTRL
+    100078: R_Leg1_JNT
+    100080: R_Leg2_CNTRL
+    100082: R_Leg2_JNT
+    100084: R_Toe_IK
+    100086: R_Toe_IK_GRP
+    100088: Root_CNTRL
+    100090: Root_JNT
+    100092: Spine1_CNTRL
+    100094: Spine1_JNT
+    100096: Spine2_CNTRL
+    100098: Spine2_JNT
+    100100: UpBody_CNTRL
+    100102: UpBody_JNT
+    400000: Head_CNTRL
+    400002: Head_JNT
+    400004: HeadTip_JNT
+    400006: L_Arm1_CNTRL
+    400008: L_Arm1_JNT
+    400010: L_Arm2_CNTRL
+    400012: L_Arm2_JNT
+    400014: L_Foot_CNTRL
+    400016: L_Foot_IK
+    400018: L_Foot_JNT
+    400020: L_FootTip_JNT
+    400022: L_Hand_CNTRL
+    400024: L_Hand_JNT
+    400026: L_HandTip_JNT
+    400028: L_Leg1_CNTRL
+    400030: L_Leg1_JNT
+    400032: L_Leg2_CNTRL
+    400034: L_Leg2_JNT
+    400036: L_Toe_IK
+    400038: L_Toe_IK_GRP
+    400040: LowBody_CNTRL
+    400042: LowBody_JNT
+    400044: Neck_CNTRL
+    400046: Neck_JNT
+    400048: Player_CNTRLS
+    400050: //RootNode
+    400052: PlayerPlaceholder_GEO
+    400054: R_Arm1_CNTRL
+    400056: R_Arm1_JNT
+    400058: R_Arm2_CNTRL
+    400060: R_Arm2_JNT
+    400062: R_Foot_CNTRL
+    400064: R_Foot_IK
+    400066: R_Foot_JNT
+    400068: R_FootTip_JNT
+    400070: R_Hand_CNTRL
+    400072: R_Hand_JNT
+    400074: R_HandTip_JNT
+    400076: R_Leg1_CNTRL
+    400078: R_Leg1_JNT
+    400080: R_Leg2_CNTRL
+    400082: R_Leg2_JNT
+    400084: R_Toe_IK
+    400086: R_Toe_IK_GRP
+    400088: Root_CNTRL
+    400090: Root_JNT
+    400092: Spine1_CNTRL
+    400094: Spine1_JNT
+    400096: Spine2_CNTRL
+    400098: Spine2_JNT
+    400100: UpBody_CNTRL
+    400102: UpBody_JNT
+    2100000: lambert1
+    4300000: PlayerPlaceholder_GEO
+    7400000: Idle
+    7400002: PunchLeft
+    7400004: PunchRight
+    7400006: DodgeLeft
+    7400008: DodgeRight
+    9500000: //RootNode
+    13700000: PlayerPlaceholder_GEO
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PunchLeft
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PunchRight
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DodgeLeft
+      takeName: Take 001
+      firstFrame: 66
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DodgeRight
+      takeName: Take 001
+      firstFrame: 98
+      lastFrame: 128
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

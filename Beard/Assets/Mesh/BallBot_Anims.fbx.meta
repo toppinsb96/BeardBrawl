@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: a6fa87a55dbe2294b86dcc25ca6c74cb
+timeCreated: 1531786033
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BallBot_Rigged:Arm_L
+    100004: BallBot_Rigged:Arm_R
+    100006: BallBot_Rigged:Base
+    100008: BallBot_Rigged:Body
+    100010: BallBot_Rigged:Eye_L
+    100012: BallBot_Rigged:Eye_R
+    100014: BallBot_Rigged:HandCannon_L
+    100016: BallBot_Rigged:HandCannon_R
+    100018: BallBot_Rigged:Hat
+    100020: BallBot_Rigged:HatEmblem
+    100022: BallBot_Rigged:Head
+    100024: BallBot_Rigged:Mouth
+    100026: BallBot_Rigged:Spine1
+    100028: BallBot_Rigged:Spine2
+    100030: BallBot_Rigged:Spine3
+    100032: BallBot_Rigged:Stache_L
+    100034: BallBot_Rigged:Stache_R
+    100036: BallBot_Rigged:Blendshapes
+    100038: BallBot_Rigged:Eye_L 1
+    100040: BallBot_Rigged:Eye_R 1
+    100042: BallBot_Rigged:Hand_L
+    100044: BallBot_Rigged:Hand_R
+    100046: BallBot_Rigged:Mouth 1
+    400000: //RootNode
+    400002: BallBot_Rigged:Arm_L
+    400004: BallBot_Rigged:Arm_R
+    400006: BallBot_Rigged:Base
+    400008: BallBot_Rigged:Body
+    400010: BallBot_Rigged:Eye_L
+    400012: BallBot_Rigged:Eye_R
+    400014: BallBot_Rigged:HandCannon_L
+    400016: BallBot_Rigged:HandCannon_R
+    400018: BallBot_Rigged:Hat
+    400020: BallBot_Rigged:HatEmblem
+    400022: BallBot_Rigged:Head
+    400024: BallBot_Rigged:Mouth
+    400026: BallBot_Rigged:Spine1
+    400028: BallBot_Rigged:Spine2
+    400030: BallBot_Rigged:Spine3
+    400032: BallBot_Rigged:Stache_L
+    400034: BallBot_Rigged:Stache_R
+    400036: BallBot_Rigged:Blendshapes
+    400038: BallBot_Rigged:Eye_L 1
+    400040: BallBot_Rigged:Eye_R 1
+    400042: BallBot_Rigged:Hand_L
+    400044: BallBot_Rigged:Hand_R
+    400046: BallBot_Rigged:Mouth 1
+    2100000: BallBot_Rigged_surfaceShader1
+    2300000: BallBot_Rigged:Arm_L
+    2300002: BallBot_Rigged:Arm_R
+    2300004: BallBot_Rigged:Base
+    2300006: BallBot_Rigged:Body
+    2300008: BallBot_Rigged:Eye_L
+    2300010: BallBot_Rigged:Eye_R
+    2300012: BallBot_Rigged:HandCannon_L
+    2300014: BallBot_Rigged:HandCannon_R
+    2300016: BallBot_Rigged:Hat
+    2300018: BallBot_Rigged:HatEmblem
+    2300020: BallBot_Rigged:Head
+    2300022: BallBot_Rigged:Mouth
+    2300024: BallBot_Rigged:Spine1
+    2300026: BallBot_Rigged:Spine2
+    2300028: BallBot_Rigged:Spine3
+    2300030: BallBot_Rigged:Stache_L
+    2300032: BallBot_Rigged:Stache_R
+    3300000: BallBot_Rigged:Arm_L
+    3300002: BallBot_Rigged:Arm_R
+    3300004: BallBot_Rigged:Base
+    3300006: BallBot_Rigged:Body
+    3300008: BallBot_Rigged:Eye_L
+    3300010: BallBot_Rigged:Eye_R
+    3300012: BallBot_Rigged:HandCannon_L
+    3300014: BallBot_Rigged:HandCannon_R
+    3300016: BallBot_Rigged:Hat
+    3300018: BallBot_Rigged:HatEmblem
+    3300020: BallBot_Rigged:Head
+    3300022: BallBot_Rigged:Mouth
+    3300024: BallBot_Rigged:Spine1
+    3300026: BallBot_Rigged:Spine2
+    3300028: BallBot_Rigged:Spine3
+    3300030: BallBot_Rigged:Stache_L
+    3300032: BallBot_Rigged:Stache_R
+    4300000: BallBot_Rigged:Base
+    4300002: BallBot_Rigged:Spine1
+    4300004: BallBot_Rigged:Spine2
+    4300006: BallBot_Rigged:Spine3
+    4300008: BallBot_Rigged:Body
+    4300010: BallBot_Rigged:Head
+    4300012: BallBot_Rigged:Eye_R
+    4300014: BallBot_Rigged:Eye_L
+    4300016: BallBot_Rigged:Stache_R
+    4300018: BallBot_Rigged:Stache_L
+    4300020: BallBot_Rigged:Mouth
+    4300022: BallBot_Rigged:Hat
+    4300024: BallBot_Rigged:HatEmblem
+    4300026: BallBot_Rigged:Arm_R
+    4300028: BallBot_Rigged:HandCannon_R
+    4300030: BallBot_Rigged:Arm_L
+    4300032: BallBot_Rigged:HandCannon_L
+    7400000: BallBot_Idle
+    7400002: BallBot_Shoot_Center
+    7400004: BallBot_Shoot_Left
+    7400006: BallBot_Shoot_Right
+    7400008: BallBot_Facepalm
+    9500000: //RootNode
+    13700000: BallBot_Rigged:Eye_L 1
+    13700002: BallBot_Rigged:Eye_R 1
+    13700004: BallBot_Rigged:HandCannon_L
+    13700006: BallBot_Rigged:HandCannon_R
+    13700008: BallBot_Rigged:Mouth 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

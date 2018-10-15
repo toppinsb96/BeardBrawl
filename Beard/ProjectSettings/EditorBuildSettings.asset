@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 13a9d8c8f490d1c46bc4ac72ab963ed7
+  - enabled: 1
+    path: Assets/Scenes/Chinbald.unity
+    guid: 5c27ce431711882468ac25f6a62e21e5
+  - enabled: 1
+    path: Assets/Scenes/Polybeard.unity
+    guid: ef9e232498a43ea409b3af51037d9718
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: cd083f718195126418aff20fb00d6786
+  - enabled: 1
+    path: Assets/Scenes/boxingbag.unity
+    guid: c1f120cbec6bb0b4a8d05135fa203441
